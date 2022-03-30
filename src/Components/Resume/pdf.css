@@ -1,0 +1,18 @@
+
+section.pdf-body {
+    /* padding: 3rem; */
+    background-color: rgb(248, 248, 248);
+    box-shadow: 0 5px 50px 5px rgba(29, 29, 29, 0.158);
+    height: 100%;
+    width: 60%;
+    margin:0 auto ;
+    text-align: justify;
+    text-justify: auto;
+  }
+  
+section.pdf-toolbar {
+    /* padding: 16px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

@@ -1,0 +1,28 @@
+.DilogInput{
+height: 30px;
+font-size: 15px;
+width: 100%;
+padding: 0 10px;
+border: 1px solid rgb(202, 202, 202);
+
+}
+.DilogInput:hover{
+    border: 1px solid #FB276A;
+}
+.btn{
+    border: none;
+    outline: none;
+    background-color:  #FB276A ;
+    font-size: 18px;
+    padding: 5px 10px;
+    box-shadow: 0 5px 15px 2px rgba(0, 0, 0, 0.329);
+}
+
+.btnprfl{
+    border: 1px dashed #FB276A;
+    outline: none;
+    color: #FB276A !important;
+    background-color:  #e0638b70 ;
+    font-size: 18px;
+    padding: 10px 15px;
+}
